@@ -1,8 +1,4 @@
 bonjour 
-<<<<<<< HEAD
 comment allez vous? 
-les eureka
-=======
-comment allez vous 
+les eureka 
 moi je vais bien merci
->>>>>>> eureka
